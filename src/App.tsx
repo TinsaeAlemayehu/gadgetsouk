@@ -197,7 +197,7 @@ export default function App() {
         <div className="container mx-auto px-4 flex items-center justify-between">
           <div className="flex items-center gap-8">
             <a href="#" className="text-2xl font-bold text-white tracking-tight flex items-center gap-2">
-              <span className="text-amazon-orange">Gadget</span>Souk
+              <span className="text-amazon-orange">Tech</span>Souk
             </a>
             
             <nav className="hidden lg:flex items-center gap-6 text-sm font-medium text-gray-300">
@@ -634,7 +634,7 @@ export default function App() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
             <div className="lg:col-span-2">
               <a href="#" className="text-3xl font-bold text-white mb-6 block">
-                <span className="text-amazon-orange">Gadget</span>Souk
+                <span className="text-amazon-orange">Tech</span>Souk
               </a>
               <p className="text-gray-400 max-w-sm mb-8 leading-relaxed">
                 Best Tech Deals in the UAE — Handpicked & Reviewed. We help you find the highest quality electronics at the lowest possible prices on Amazon UAE.
@@ -670,7 +670,7 @@ export default function App() {
 
           <div className="pt-10 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-6">
             <p className="text-gray-500 text-sm">
-              © 2026 GadgetSouk. All rights reserved.
+              © 2026 TechSouk. All rights reserved.
             </p>
             <div className="flex items-center gap-2 text-xs text-gray-600">
               <span>As an Amazon Associate, I earn from qualifying purchases.</span>
